@@ -14,18 +14,18 @@
 	"devDependencies": {
 		"codecov.io": "0.1.6",
 		"dts-generator": "1.6.2",
-		"grunt": "0.4.5",
-		"grunt-contrib-clean": "0.6.0",
-		"grunt-contrib-copy": "0.8.0",
-		"grunt-contrib-watch": "0.6.1",
-		"grunt-exec": "0.4.6",
+		"grunt": "1.0.1",
+		"grunt-contrib-clean": "git://github.com/gruntjs/grunt-contrib-clean.git#985cc7f9b7fd51cf467fe557aee2dceadf268752",
+		"grunt-contrib-copy": "1.0.0",
+		"grunt-contrib-watch": "1.0.0",
+		"grunt-exec": "git://github.com/jharding/grunt-exec.git#0a1576f45089f47089b33ee2b3d223b3da5abe58",
 		"grunt-text-replace": "0.4.0",
-		"grunt-ts": "5.2.0",
-		"grunt-tslint": "2.5.0",
-		"tslint": "2.5.1",
+		"grunt-ts": "5.5.0-beta.2",
+		"grunt-tslint": "git://github.com/palantir/grunt-tslint.git#438b1a6bd7e48e172b429d1c41ded861ee49f741",
 		"intern": "kitsonk/intern#issue-435",
 		"jsdom": "~7.1.0",
-		"remap-istanbul": "~0.4.0",
-		"typescript": "~1.7.0"
+		"remap-istanbul": "0.6.2",
+		"tslint": "3.8.1",
+		"typescript": "1.8.10"
 	}
 }
